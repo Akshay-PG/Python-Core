@@ -1,2 +1,2 @@
 print('hello world')
-input('enter value')
+print('beautiful')
