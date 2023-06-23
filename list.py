@@ -1,28 +1,30 @@
 
 #LIST OPERATIONS
 
-abc = ['google','fb','watsap','linkedin']
+social = ['google','fb','watsap','linkedin']
 print(abc)
 print(abc[1])
 
-no= [1,2,3,4,5]
-print(no[4])
+#CHANGING VALUES
 
-no[2] = 5
+rollno = [1,2,3,4,5]
+print(rollno[4])
+
+rollno[2] = 5
 print(no)
 
 num = [7,8,9,10]
 
-print(no+num)
+print(rollno+num)
 
-efg = ['tb','mb','gb']
-print(abc+efg)
+size = ['tb','mb','gb']
+print(social+size)
 
-hij=(efg+abc)
-print(hij)
+pg=(social+size)
+print(pg)
 
-hij[1]='sd'
-print(hij)
+pg[1]='sd'
+print(pg)
 
 print(num*3)
 
