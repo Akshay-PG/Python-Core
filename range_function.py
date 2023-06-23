@@ -1,3 +1,6 @@
+no = list(range(10))
+print(no)
+
 numbers = list(range(10,20))
 print(numbers)
 
