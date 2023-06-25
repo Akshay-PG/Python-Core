@@ -57,8 +57,8 @@ s_median=np.median(s)
 print(s_median)
 
 # STANDARD DEVIATION std : tells us how much the elements in an array deviates from MEAN
-s_std = np.std(s)
-print(s_std)
+s_std_d = np.std(s)
+print(s_std_d)
 
 
 
